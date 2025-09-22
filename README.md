@@ -1,7 +1,5 @@
 # DDS-Xray-Routing-Editor
 
-# DDS Routing Rules Editor
-
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 
 A sleek, web-based tool to **create, sort, and export Xray routing rules** in JSON—right from your browser. Built with **Vue 3** and **Tailwind CSS** , there’s no build step or backend.
@@ -93,8 +91,8 @@ If you find this tool helpful, consider supporting us with a small donation! You
 
 ## Tech Stack
 
-- **Vue 3** (via CDN) for reactive UI.
-- **Tailwind CSS** (via CDN) for styling.
+- **Vue 3** for reactive UI.
+- **Tailwind CSS** for styling.
 - Vanilla HTML/CSS/JS—no build tooling required.
 
 ---
