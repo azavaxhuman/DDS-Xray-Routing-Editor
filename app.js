@@ -212,7 +212,7 @@ const wallets = ref([
       const sample = [
         {
           type: "field",
-          domain: ["geosite:category-ads-all", "regexp:(^|\\.)doubleclick\\.net$"],
+          domain: ["geosite:category-ads-all", "geosite:meta"],
           outboundTag: "block",
         },
         { type: "field", ip: ["geoip:ir"], outboundTag: "direct" },
